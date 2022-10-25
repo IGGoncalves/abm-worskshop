@@ -18,13 +18,13 @@ Alternatively, follow this link: https://gitpod.io/#https://github.com/IGGoncalv
 
 Once you click on the button above, you will be prompted to login to Gitpod. If you already have an account on GitHub you will be able to login using your account.
 
-If you don't have a GitHub account, please **create one**. You will need to **grant permission to Gitpod to read your email address**, and Gitpod may require that you further validate your account with **a code that will be sent to a mobile phone number you provide** if your GitHub account is very recent. ![steps](img\steps.png)
+If you don't have a GitHub account, please **create one**. You will need to **grant permission to Gitpod to read your email address**, and Gitpod may require that you further validate your account with **a code that will be sent to a mobile phone number you provide** if your GitHub account is very recent. ![steps](img/steps.png)
 
 ### The Gitpod environment
 
 When asked what code editor you would like to use, please select **VSCode**.  Next, you should be able to access the container, which looks like this:
 
-![base](img\base.png)
+![base](img/base.png)
 
 Everything is all setup to go through this workshop 🥳
 
