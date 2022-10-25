@@ -48,10 +48,10 @@ Then, we need to compile the project:
 make
 ```
 
-which will result in an executable that can be run to simulate our model. The name of this executable is `cancer-immune` and it can be run by calling the command:
+which will result in an executable that can be run to simulate our model. The name of this executable is `cancer-biorobots` and it can be run by calling the command:
 
 ```bash
-./cancer-immune
+./cancer-biorobots
 ```
 
 ### Qualitative analysis
@@ -105,9 +105,6 @@ Once you have selected a project, just run the command `make <project_name>` whe
 In this section, we will be working with one of the simplest template models: `template`. Let's prepare our workspace by running the following commands. Let's also run a simulation with the original code and save the results (the `GIF` file) to our local machines.
 
 ```bash
-make data-cleanup
-make clean
-make reset
 make template
 make
 ./project
